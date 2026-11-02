@@ -24,5 +24,5 @@ The application does not yet use verified live weather or historical climate dat
 ## Future improvements
 - Integrate live weather data.
 - Compare temperatures against historical climate averages.
-- Improve the website's design.
+- Improve the website's design. (note complete this as updated file now to look mre appealing or the eyeof user)
 - Add visual temperature comparisons.
